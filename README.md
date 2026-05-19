@@ -150,6 +150,11 @@ Open http://localhost:8501 in your browser.
 4. **app.py** wraps `predict.py` in a Streamlit interface with an interactive Plotly bar chart for confidence scores.
 
 ---
+##UI
+<img width="1890" height="1082" alt="image" src="https://github.com/user-attachments/assets/892ecf5d-5fc3-46e9-81c1-1b691e00442b" />
+<img width="1337" height="757" alt="image" src="https://github.com/user-attachments/assets/9d1bc043-e0a3-4833-8aaf-1dc708e7545c" />
+<img width="1347" height="923" alt="image" src="https://github.com/user-attachments/assets/a641c88b-61d0-4641-955e-210e73433c38" />
+
 
 ## License
 
